@@ -1,7 +1,7 @@
 
 ## Projeto referente a atividade avaliativa: Bella Face Cosméticos:
 
-Este projeto foi criado utilizando JavaScript juntamente com React e Bootstrap, a IDE escolhida foi o VSCode.
+Este projeto foi criado utilizando JavaScript juntamente com React e Bootstrap.
 
 Para executar o projeto, você pode digitar no terminal:
 

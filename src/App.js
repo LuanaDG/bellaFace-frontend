@@ -1,6 +1,5 @@
 import React from 'react';
 import { BrowserRouter as Router, Switch,Route,Redirect} from 'react-router-dom';
-//import { Navbar, Nav, Form, FormControl, Button, Dropdown, DropdownButton } from 'react-bootstrap';
 import Login from './login';
 import Products from './products';
 import Logout from './logout';

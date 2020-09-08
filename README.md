@@ -1,13 +1,11 @@
 
 ## Projeto referente a atividade avaliativa: Bella Face Cosméticos:
 
-Este projeto foi criado utilizando JavaScript juntamente com React e Bootstrap, a IDE escolhida foi o VSCode.
+O projeto foi criado utilizando ReactJS.
 
-Para executar o projeto, você pode digitar no terminal:
+Para executar o projeto::
 
-
-### `yarn add` 
-
+### `yarn install` 
 
 e também 
 
@@ -21,6 +19,10 @@ O projeto abrirá no browser.<br />
  Para efetuar os testes de Login, deve-se utilizar 
  os dados de usuários já cadastrados no banco de dados <br />
  (login e password), disponibilizados com os scripts do back-end na tabela Customer.
+
+Ex: 
+Digite seu CNPJ: 249587000166	   Senha: 654321
+
 
 
 

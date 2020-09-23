@@ -1,5 +1,5 @@
 
-## Projeto referente a atividade avaliativa: Bella Face Cosméticos:
+## Bella Face Cosméticos:
 
 O projeto foi criado utilizando ReactJS.
 
